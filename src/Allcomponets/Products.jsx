@@ -9,7 +9,7 @@ const Loppingproducts = () => {
       method: "GET",
       headers: {
         "Content-Type": "application/json",
-        "X-Shopify-Access-Token": "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",
+        "X-Shopify-Access-Token": "",
       },
     });
     if (response.ok) {
